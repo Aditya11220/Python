@@ -1,0 +1,47 @@
+# The Keywords in Python are as follows:
+
+
+"""These are the set of keywords which has their own role to play, We cant assign any new values to them and we cant use them as variabes, functions or any other identifiers."""
+
+"""
+1. and
+2. as
+3. assert
+4. break
+5. class
+6. continue
+7. def
+8. del
+9. elif
+10. else
+11. except
+12. finally
+13. False
+14. for
+15. from
+16. global
+17. if
+18. import
+19. in
+20. is
+21. lambda
+22. nonlocal
+23. None
+24. not
+25. or
+26. pass
+27. raise
+28. return
+29. True
+30. try
+31. with
+32. while
+33. yield
+"""
+
+
+"""
+** Variables **
+Def: A variable is a container that holds a value. It is used to store data in a program. In Python, we can create a variable by simply assigning a value to it using the assignment operator (=). The variable name can be any valid identifier and it can hold any data type. We can also change the value of a variable at any time during the program execution.
+
+"""
